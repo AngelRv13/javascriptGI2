@@ -1,0 +1,2 @@
+let studentInfo ={firstName: ["Angel","dre","jaz"], lastName:["sanchez","derr","rosario"], age: [27 , 20 ,19]};
+console.log(`Hello, my name is ${studentInfo.firstName[0]} ${studentInfo.lastName[0]} and I'm ${studentInfo.age[0]} years old`);
