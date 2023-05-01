@@ -1,3 +1,7 @@
+// we need a prompt number from 1-12 to display a month
+//make a array with all the months
+// function that returns month
+
 
 let userChoose =prompt("Enter a number 1-12 to choose a month");
 var months =["January", "February","March","April","May","June","July","August","September","october","November","December"] 

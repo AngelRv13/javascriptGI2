@@ -1,3 +1,8 @@
+//create a function 3 is the minimum
+
+
+
+
 let num1 = 24;
 let num2 = 3;
 
